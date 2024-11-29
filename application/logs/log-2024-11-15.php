@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-15 17:02:21 --> Could not find the language line "host"
+ERROR - 2024-11-15 17:02:23 --> Could not find the language line "host"
+ERROR - 2024-11-15 17:02:25 --> Could not find the language line "host"
+ERROR - 2024-11-15 17:04:33 --> Could not find the language line "meeting"
+ERROR - 2024-11-15 17:05:08 --> Could not find the language line "meeting"
+ERROR - 2024-11-15 17:05:30 --> Could not find the language line "meeting"
+ERROR - 2024-11-15 17:05:41 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:05:41 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:05:57 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:05:59 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:05:59 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:06:12 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:06:12 --> Could not find the language line "class_date_time"
+ERROR - 2024-11-15 17:07:31 --> Could not find the language line "host"
